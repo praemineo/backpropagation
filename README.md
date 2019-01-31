@@ -1,5 +1,4 @@
 # backpropagation
 This file contains two process :
-* backpropagation 
-     and 
+* backpropagation  
 * feed-forward
