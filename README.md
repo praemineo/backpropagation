@@ -1,2 +1,5 @@
 # backpropagation
-This file contains the code of backpropagation and feed-forward
+This file contains two process :
+*backpropagation 
+     and 
+*feed-forward
