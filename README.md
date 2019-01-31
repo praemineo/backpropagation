@@ -6,7 +6,7 @@ This file contains two process :
 ### * Sigmoid function
 ### * Unit vector (X)
 ### * Target value that we want to predict using backpropagation
-### * Learning rate (&alpha)
+### * Learning rate ( &alpha; )
 
 # X is a unit vector
 x = np.array([0.5, 0.1, -0.2])
