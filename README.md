@@ -1,7 +1,7 @@
 # Backpropagation
 This file contains two process :
-### * backpropagation  
-### * feed-forward
+### *backpropagation  
+### *feed-forward
 
 For doing these process we required following :
 ## Initialization
