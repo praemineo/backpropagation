@@ -5,24 +5,10 @@ This file contains two process :
 
 For doing these process we required following :
 ## Initialization
-${ /E = \frac{1}{2}\sum_{\mu} \sum_j \left[ y^{\mu}_j - \hat{y} ^{\mu}_j \right]^2E= 
-2
-1 }$
-
-@ 1/(1 + \exp(-x)) @/
-* Sigmoid function
-&{\displaystyle f(x)={\frac {1}{1+e^{-x}}}} {\displaystyle f(x)={\frac {1}{1+e^{-x}}}};
+```math
+* Sigmoid function (1/(1 + \exp(-x)))
 * Unit vector ( X )
 * Target value that we want to predict using backpropagation
 * Learning rate ( &alpha; )
 * Weight for Input &Rightarrow; Hidden layer.
-
-$$ h_ \theta (x) =  \frac{\mathrm{1} }{\mathrm{1} + e^- \theta^Tx }  $$ 
-
-
-```math
-\int e^t dt
-```​
-
-${\alpha}$
-
+```
