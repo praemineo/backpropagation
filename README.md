@@ -17,6 +17,9 @@ ${ /E = \frac{1}{2}\sum_{\mu} \sum_j \left[ y^{\mu}_j - \hat{y} ^{\mu}_j \right]
 * Learning rate ( &alpha; )
 * Weight for Input &Rightarrow; Hidden layer.
 
+$$ h_ \theta (x) =  \frac{\mathrm{1} }{\mathrm{1} + e^- \theta^Tx }  $$ 
+
+
 ```math
 \int e^t dt
 ```​
