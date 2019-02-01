@@ -16,3 +16,8 @@ $$ E = \frac{1}{2}\sum_{\mu} \sum_j \left[ y^{\mu}_j - \hat{y} ^{\mu}_j \right]^
 * Target value that we want to predict using backpropagation
 * Learning rate ( &alpha; )
 * Weight for Input &Rightarrow; Hidden layer.
+
+```math
+\int e^t dt
+```​
+
