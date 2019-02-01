@@ -21,3 +21,5 @@ ${ /E = \frac{1}{2}\sum_{\mu} \sum_j \left[ y^{\mu}_j - \hat{y} ^{\mu}_j \right]
 \int e^t dt
 ```​
 
+${\alpha}$
+
