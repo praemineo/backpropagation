@@ -1,10 +1,10 @@
 # Backpropagation
 This file contains two process :
-### Backpropagation  
-### Feed-forward
+#### Backpropagation  
+#### Feed-forward
 
 For doing these process we required following :
-## Initialization
+### Initialization
 
 * Sigmoid function (1/(1 + \exp(-x)))
 * Unit vector ( X )
