@@ -5,9 +5,9 @@ This file contains two process :
 
 For doing these process we required following :
 ## Initialization
-$$ E = \frac{1}{2}\sum_{\mu} \sum_j \left[ y^{\mu}_j - \hat{y} ^{\mu}_j \right]^2E= 
+${ /E = \frac{1}{2}\sum_{\mu} \sum_j \left[ y^{\mu}_j - \hat{y} ^{\mu}_j \right]^2E= 
 2
-1 $$
+1 }$
 
 @ 1/(1 + \exp(-x)) @/
 * Sigmoid function
