@@ -5,10 +5,9 @@ This file contains two process :
 
 For doing these process we required following :
 ## Initialization
-```math
+
 * Sigmoid function (1/(1 + \exp(-x)))
 * Unit vector ( X )
 * Target value that we want to predict using backpropagation
 * Learning rate ( &alpha; )
 * Weight for Input &Rightarrow; Hidden layer.
-```
