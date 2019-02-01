@@ -12,7 +12,7 @@ For doing these process we required following :
 * Learning rate ( &alpha; )
 * Weight for Input &Rightarrow; Hidden layer.
 
-# Feed-Forward
+## Feed-Forward
 We will use given weights and inputs to predict the output. Inputs are multiplied by weights and then the results are passed forward to the next layer.
 
 
