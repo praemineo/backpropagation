@@ -1,7 +1,9 @@
 # Backpropagation
-This file contains two process :
-### Backpropagation  
-### Feed-forward
+If you are building your own neural network, you will definitely need to understand how to train it. Backpropagation is a commonly used technique for training neural network. 
+
+## Prerequisites
+
+What things you need to install the software and how to install them
 
 For doing these process we required following :
 ## Initialization
@@ -14,5 +16,6 @@ For doing these process we required following :
 
 # Feed-Forward
 We will use given weights and inputs to predict the output. Inputs are multiplied by weights and then the results are passed forward to the next layer.
-
+![Screenshot](screenshot.png)
+![image.png](attachment:image.png)
 
