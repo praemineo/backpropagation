@@ -7,7 +7,7 @@ For doing these process we required following :
 ## Initialization
 
 * Sigmoid function
-![image.png](attachment:image.png)
+&{\displaystyle f(x)={\frac {1}{1+e^{-x}}}} {\displaystyle f(x)={\frac {1}{1+e^{-x}}}};
 * Unit vector ( X )
 * Target value that we want to predict using backpropagation
 * Learning rate ( &alpha; )
