@@ -20,3 +20,8 @@ We will use given weights and inputs to predict the output. Inputs are multiplie
 
 ![Screenshot](https://cdn-images-1.medium.com/max/800/1*AJzasjv04k2L7gmFghqYXg.png
 )
+
+# Backpropagation
+
+![Screenshot](https://cdn-images-1.medium.com/max/800/1*l3vkOc35mt3cCZBDKm1i6g.png
+)
