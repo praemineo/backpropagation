@@ -5,7 +5,7 @@ If you are building your own neural network, you will definitely need to underst
 For run this file you need jupyter-notebook, if not already installed in your machine check below link for installation :
 https://jupyter.readthedocs.io/en/latest/install.html
 
-and for run type -> jupyter-notebook in your terminal
+and for run the notebook, type -> jupyter-notebook in your terminal
 
 ## Initialization
 
