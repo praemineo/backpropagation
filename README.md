@@ -18,7 +18,7 @@ and for run the notebook, type -> jupyter-notebook in your terminal
 # Feed-Forward
 We will use given weights and inputs to predict the output. Inputs are multiplied by weights and then the results are passed forward to the next layer.
 
-![Screenshot](https://cdn-images-1.medium.com/max/800/1*AJzasjv04k2L7gmFghqYXg.png
+![Screenshot](https://cdn-images-1.medium.com/max/800/1*-fmmpPBFNdJDDBuPXYUrsQ.png
 )
 
 # Backpropagation
