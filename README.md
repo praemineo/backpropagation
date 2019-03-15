@@ -5,11 +5,11 @@ If you are building your own neural network, you will definitely need to underst
 ## Prerequisites
 _________________
 
-#### 2. Python3 Installation :
+#### Python3 Installation :
 
 -> Python3 : https://www.python.org/downloads/
 
-#### 2. Jupyter-Notebook Installation :
+#### Jupyter-Notebook Installation :
 
 -> If you want to run ipython notebook(.ipynb file), So for run this file you need jupyter-notebook, if not already installed in your machine check below link for installation :
 https://jupyter.readthedocs.io/en/latest/install.html
