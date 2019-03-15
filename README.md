@@ -41,6 +41,7 @@ __________________
 _______________________________________
 
 -> Type jupyter-notebook in your terminal.
+
 -> Go to Jupyter Navigation Bar -> Select 'Cell' -> Select 'Run All'
 
 
